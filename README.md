@@ -7,10 +7,11 @@ This repository contains Python scripts for scraping product details from Amazon
 Main Task
 The main task involves scraping a minimum of hundred URLs in the format of "https://www.amazon.{country}/dp/{asin}" provided in a CSV file. The script utilizes libraries such as BeautifulSoup (bs4), Selenium, and requests to extract the following details from each page:
 
-Product Title
-Product Image URL
-Price of the Product
-Product Details
+>Product Title
+>Product Image URL
+>Price of the Product
+>Product Details
+
 The script handles cases where a URL throws a 404 Error and skips those URLs. After each round of hundred URLs, the total time taken to complete the scraping process is displayed.
 
 The output is in the form of a list of dictionaries and is represented in JSON format. Additionally, the script provides the option to connect to a database (e.g., MySQL or PostgreSQL) to dump the scraped data while still creating the output JSON file.
