@@ -33,7 +33,7 @@ To run the main task, ensure you have Python (latest version), along with the re
 For the bonus task, execute the bonus_task.ipynb notebook after installing the necessary dependencies.
 
 Feedback and Contact
-Your feedback is appreciated! If you have any questions or suggestions, feel free to reach out to me at [your-email@example.com]. Thank you for considering my submission.
+Your feedback is appreciated! If you have any questions or suggestions, feel free to reach out to me at akshayadevi63@gmail.com. Thank you for considering my submission.
 
 You can customize this description by adding your email address, ensuring the contact information is accurate and professional. Additionally, you can modify the repository structure and usage section based on your specific implementation and preferences.
 
